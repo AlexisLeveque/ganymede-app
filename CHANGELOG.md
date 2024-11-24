@@ -1,5 +1,11 @@
 # ganymede-app
 
+## 1.3.2
+
+### Patch Changes
+
+- df29c93: Changeset de test
+
 ## 1.3.1
 
 ### Patch Changes
